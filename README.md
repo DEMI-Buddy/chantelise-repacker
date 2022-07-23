@@ -1,6 +1,8 @@
-# Recettear Repacker
+# Chantelise Repacker
 
-A set of scripts to unpack and repack Recettear game files
+A set of scripts to unpack and repack Chantelise game files
+
+(Based on UnrealPowerz's recettear-repacker code)
 
 ## How it works
 
